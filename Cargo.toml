@@ -1,0 +1,7 @@
+[package]
+name = "bcms-converter"
+version = "0.1.0"
+authors = ["Yghor Kerscher <kerscher@acm.org>"]
+
+[dependencies]
+clap = "2.25"
